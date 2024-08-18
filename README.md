@@ -27,3 +27,9 @@ The system offers feature-based matching instead of point-based matching, so the
 ## Future Improvements
 
 This method can be further improved by incorporating better image features than color features. Texture descriptors could be used for complex images to enhance security and usability further.
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Worldwiin/PCCP.git
